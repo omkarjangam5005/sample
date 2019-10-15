@@ -7,6 +7,9 @@ initial comment....
 date-15/10/2019
 time-4:50pm
 
+this is version 1.6
+.......
+.......
 this is the modifications in the middle
 
 i am doing something in the sample project 
