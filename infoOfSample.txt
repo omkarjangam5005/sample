@@ -6,3 +6,9 @@ starting of new project sample....
 initial comment....
 date-15/10/2019
 time-4:50pm
+
+
+i am doing something in the sample project 
+this file contains info;;
+date-15/10/2019
+time-4:55pm
