@@ -10,7 +10,7 @@ public class Answer {
 		System.out.println("method 2");
 	}
 
-	public void m3() {
+	public static void m3() {
 		System.out.println("method 3");
 	}
 }
