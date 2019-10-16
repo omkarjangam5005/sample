@@ -8,6 +8,7 @@ public class Test {
 		Answer aa=new Answer();
 		aa.m1();
 		aa.m2();
+		aa.m3();
 
 	}
 
